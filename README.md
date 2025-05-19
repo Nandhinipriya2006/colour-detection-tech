@@ -1,1 +1,1 @@
-# colour-detection-tech
+# colour-detection-from images
